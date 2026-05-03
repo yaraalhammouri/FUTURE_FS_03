@@ -1,13 +1,22 @@
 # Saddle Café UAE Website
 
 ## Project Overview
-This project is a professional website created for Saddle Café UAE, a popular café offering coffee, desserts, and fresh meals.
+This project is a professional website created for Saddle Café UAE, a popular café brand in the UAE offering coffee, desserts, and fresh meals.
 
-## Objective
-The goal of this website is to improve the café’s online presence and make it easier for customers to:
-- Explore menu items
-- Learn about the brand
-- Find contact information quickly
+---
+
+## Short Pitch
+
+**Who the business is:**  
+Saddle Café UAE is a well-known café that provides high-quality coffee, desserts, and casual dining experiences across the UAE.
+
+**What problem the website solves:**  
+Many customers rely on online information before visiting a café. Without a clear and organized website, it can be difficult for customers to explore the menu, understand the brand, or find contact details quickly.
+
+**How it helps attract customers:**  
+This website presents Saddle Café in a clean, modern, and professional way. It makes it easy for customers to view popular menu items, learn about the café, and find contact information. This improves customer trust, enhances the café’s online presence, and encourages more people to visit.
+
+---
 
 ## Website Features
 - Home page introducing the café
@@ -15,20 +24,14 @@ The goal of this website is to improve the café’s online presence and make it
 - About page explaining the brand
 - Contact page with key details
 
-## Design
-The website is designed with a clean and modern layout using a beige color palette to create a warm and welcoming café feel. It is structured for easy navigation and readability.
+---
 
 ## Technologies Used
 - HTML
 - CSS
 - Visual Studio Code
 
-## How It Helps the Business
-This website helps Saddle Café:
-- Look more professional online
-- Build customer trust
-- Attract more visitors
-- Clearly present its products and services
+---
 
-## How to View the Website
-Download the project files and open `index.html` in your browser.
+## Live Website
+https://yaraalhammouri.github.io/FUTURE_FS_03/
